@@ -5185,6 +5185,11 @@
         "MinBiosDotted":  "1.29"
     },
     {
+        "MachineType":  "21Q9",
+        "MinBiosEngineering":  "N4EET22W",
+        "MinBiosDotted":  "1.08"
+    },
+    {
         "MachineType":  "21SG",
         "MinBiosEngineering":  "QZCN17WW",
         "MinBiosDotted":  "1.17"
