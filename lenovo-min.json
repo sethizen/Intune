@@ -727,12 +727,12 @@
     {
         "MachineType":  "21KV",
         "MinBiosEngineering":  "N48ET11W",
-        "MinBiosDotted":  "0.08"
+        "MinBiosDotted":  "1.20"
     },
     {
         "MachineType":  "21KW",
         "MinBiosEngineering":  "N48ET11W",
-        "MinBiosDotted":  "0.08"
+        "MinBiosDotted":  "1.20"
     },
     {
         "MachineType":  "20Y1",
